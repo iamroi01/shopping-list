@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="store_name" label="Store name" language="en" table="x_502135_shopping_store">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>store_name</element>
+            <help/>
+            <hint/>
+            <label>Store name</label>
+            <language>en</language>
+            <name>x_502135_shopping_store</name>
+            <plural>Store names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-15 03:33:42</sys_created_on>
+            <sys_id>6e9c1b6edb33101090a8cc3039961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Store name</sys_name>
+            <sys_package display_value="Shopping List" source="x_502135_shopping">df86d3a2db33101090a8cc303996198c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">df86d3a2db33101090a8cc303996198c</sys_scope>
+            <sys_update_name>sys_documentation_x_502135_shopping_store_store_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-15 03:33:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
